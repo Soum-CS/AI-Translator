@@ -1,0 +1,57 @@
+body{
+    background:#f4f7fb;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container{
+    max-width:900px;
+    margin:40px auto;
+}
+
+.card{
+    border:none;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.1);
+}
+
+textarea{
+    resize:none;
+    border-radius:12px !important;
+}
+
+.form-select{
+    border-radius:12px;
+}
+
+.btn{
+    border-radius:12px;
+    padding:10px 20px;
+}
+
+h1{
+    font-weight:700;
+    text-align:center;
+    margin-bottom:30px;
+}
+
+.output-box{
+    min-height:150px;
+}
+body{
+    background: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+.card{
+    max-width: 800px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+textarea{
+    resize: none;
+}
+
+.btn{
+    margin-right: 10px;
+}
